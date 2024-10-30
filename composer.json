@@ -1,0 +1,17 @@
+{
+  "name": "karlog-it/karlog-it-save-for-later",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Karlog-IT ApS"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "KarlogIT\\Plugin\\SaveForLater\\": "src/"
+    }
+  }
+}
